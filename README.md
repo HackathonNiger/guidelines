@@ -16,4 +16,4 @@
 - AI-generated projects with no human contribution
 
 ## 📅 Deadlines
-Final submission: [Insert date and time]
+Final submission: September 7th 2025
